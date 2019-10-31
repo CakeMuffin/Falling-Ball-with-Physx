@@ -1,0 +1,10 @@
+* {
+	background-color: grey;
+}
+
+#myCanvas {
+	position: relative;
+	left: 300px;
+	top: 100px;
+	background-color: white;
+}
